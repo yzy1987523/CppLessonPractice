@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  MainTest.cpp
+d:\projects\cplusprojects\cpplessonpractice\cpplessonpractice\maintest.cpp(7): warning C4005: “NDEBUG”: 宏重定义
+  d:\projects\cplusprojects\cpplessonpractice\cpplessonpractice\pch.cpp: note: 参见“NDEBUG”的前一个定义
+  Funs.cpp
+  正在生成代码
+  All 155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CppLessonPractice.vcxproj -> D:\Projects\CPlusProjects\CppLessonPractice\x64\Release\CppLessonPractice.exe

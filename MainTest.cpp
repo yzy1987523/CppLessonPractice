@@ -8,7 +8,7 @@
 #include <cassert>
 
 using namespace std;
-void IOSum();
+void mainTest();
 int main(){		
-	IOSum();
+	mainTest();
 }

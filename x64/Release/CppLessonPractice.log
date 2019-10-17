@@ -1,6 +1,7 @@
 ﻿  Funs.cpp
-d:\projects\cplusprojects\cpplessonpractice\cpplessonpractice\funs.cpp(120): warning C4101: “p2”: 未引用的局部变量
   正在生成代码
-  All 145 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  13 of 154 functions ( 8.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   CppLessonPractice.vcxproj -> D:\Projects\CPlusProjects\CppLessonPractice\x64\Release\CppLessonPractice.exe

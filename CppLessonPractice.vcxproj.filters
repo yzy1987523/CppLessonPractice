@@ -21,7 +21,13 @@
     <ClInclude Include="dtime.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="node.h">
+    <ClInclude Include="stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="queue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="vprint.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -35,7 +41,10 @@
     <ClCompile Include="dtime.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="node.cpp">
+    <ClCompile Include="stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="queue.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

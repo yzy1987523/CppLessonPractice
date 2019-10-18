@@ -7,12 +7,18 @@
 #define NDEBUG
 #include <cassert>
 #include "dtime.h"
-#include "node.h"
+//#include "node.h"
+#include "queue.h"
+#include "vprint.h"
 using namespace std;
 
 void dtimeTest();
-void nodeTest();
+//void nodeTest();
+void queueTest();
+void print();
 int main(){		
 	//dtimeTest();
-	nodeTest();
+	//nodeTest();
+	//queueTest();
+	print();
 }

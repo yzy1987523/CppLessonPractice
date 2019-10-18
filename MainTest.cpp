@@ -6,9 +6,13 @@
 #include <string>
 #define NDEBUG
 #include <cassert>
-
+#include "dtime.h"
+#include "node.h"
 using namespace std;
-void mainTest();
+
+void dtimeTest();
+void nodeTest();
 int main(){		
-	mainTest();
+	//dtimeTest();
+	nodeTest();
 }

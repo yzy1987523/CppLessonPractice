@@ -152,6 +152,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="dtime.h" />
+    <ClInclude Include="employee.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="queue.h" />
     <ClInclude Include="stack.h" />
@@ -159,6 +160,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dtime.cpp" />
+    <ClCompile Include="employee.cpp" />
     <ClCompile Include="MainTest.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

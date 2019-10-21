@@ -30,6 +30,9 @@
     <ClInclude Include="vprint.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="employee.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -45,6 +48,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="employee.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

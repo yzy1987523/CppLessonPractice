@@ -10,15 +10,20 @@
 //#include "node.h"
 #include "queue.h"
 #include "vprint.h"
+#include "pet.h"
 using namespace std;
-
+using namespace pet;
 void dtimeTest();
 //void nodeTest();
 void queueTest();
 void print();
+void petTest();
 int main(){		
 	//dtimeTest();
 	//nodeTest();
 	//queueTest();
-	print();
+	//print();
+	petTest();
+
+
 }

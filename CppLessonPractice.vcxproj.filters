@@ -33,6 +33,9 @@
     <ClInclude Include="employee.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="pet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -51,6 +54,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="employee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pet.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

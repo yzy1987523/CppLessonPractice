@@ -12,7 +12,7 @@ namespace employeessavitch {
 		void setName(string newName);
 		void setSSN(string newSSN);		
 		void setNetPay(double newNetPay);
-		void printCheck() const;
+		void printCheck();
 	private:
 		string name;
 		string ssn;

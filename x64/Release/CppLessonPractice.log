@@ -1,9 +1,11 @@
 ﻿  MainTest.cpp
 d:\projects\cplusprojects\cpplessonpractice\cpplessonpractice\maintest.cpp(7): warning C4005: “NDEBUG”: 宏重定义
   d:\projects\cplusprojects\cpplessonpractice\cpplessonpractice\pch.cpp: note: 参见“NDEBUG”的前一个定义
+  pet.cpp
+d:\projects\cplusprojects\cpplessonpractice\cpplessonpractice\pet.cpp(20): warning C4101: “e”: 未引用的局部变量
   正在生成代码
-  2 of 13 functions (15.4%) were compiled, the rest were copied from previous compilation.
+  3 of 42 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    1 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   CppLessonPractice.vcxproj -> D:\Projects\CPlusProjects\CppLessonPractice\x64\Release\CppLessonPractice.exe

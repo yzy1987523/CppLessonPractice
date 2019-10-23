@@ -40,7 +40,7 @@ namespace employeessavitch {
 		netPay = newNetPay;
 	}
 	//需要重定义
-	void employeessavitch::Employee::printCheck() const
+	void employeessavitch::Employee::printCheck() 
 	{
 		cout << "Error!\n";
 		exit(1);

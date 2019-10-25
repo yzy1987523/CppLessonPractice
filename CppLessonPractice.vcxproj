@@ -157,6 +157,7 @@
     <ClInclude Include="pet.h" />
     <ClInclude Include="queue.h" />
     <ClInclude Include="stack.h" />
+    <ClInclude Include="template.h" />
     <ClInclude Include="vprint.h" />
   </ItemGroup>
   <ItemGroup>
